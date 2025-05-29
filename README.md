@@ -150,7 +150,7 @@ Memuat:
 
 > ⚠️ **Catatan penting**:
 
-* Tidak boleh menyisipkan: **cover, abstrak, ringkasan, atau lembar pengesahan**
+* Tidak boleh menyisipkan: **cover, abstrak, ringkasan**
 * Dokumen utama hanya terdiri dari **Bab 1, 2, 3, Daftar Pustaka, dan Lampiran**
 * Format: Times New Roman, ukuran 12, spasi 1,15, margin normal
 
