@@ -95,57 +95,64 @@ Berikut adalah **poin-poin penting isi proposal PKM-GFT (Gagasan Futuristik Tert
 
 ---
 
-## **DAFTAR ISI** *(akan dibuat otomatis setelah isi lengkap)*
+### ✅ **Format Penulisan Isi Utama Proposal PKM-GFT**
 
----
+#### **DAFTAR ISI**
 
-## **BAB 1. PENDAHULUAN**
+> Daftar isi memuat susunan sistematika: Bab 1, Bab 2, Bab 3, Daftar Pustaka, dan Lampiran, **tanpa** menambahkan abstrak, cover, atau lembar pengesahan.
 
-🔹 Memuat:
+### **BAB 1. PENDAHULUAN**
 
-* Situasi dan kondisi nasional sebagai latar belakang
-* Data/informasi pendukung
-* Tujuan dan manfaat gagasan
-* Kelemahan solusi yang sudah ada → membuka ruang untuk solusi baru
+Bagian ini memuat:
 
----
+* **Latar belakang**:
+  Mengungkap kondisi bangsa atau dunia yang menjadi alasan munculnya gagasan. Didukung data atau informasi aktual (dari berita, laporan, jurnal, dll).
+* **Tujuan dan manfaat**:
+  Apa yang ingin dicapai dan kontribusi gagasan terhadap masyarakat/negara.
+* **Solusi sebelumnya dan keterbatasannya**:
+  Menjelaskan solusi yang sudah ada dan mengapa masih belum cukup.
+* **Dasar gagasan futuristik**:
+  Menjelaskan kenapa ide ini menjadi solusi terbaik dan masa depan.
 
-## **BAB 2. GAGASAN**
+### **BAB 2. GAGASAN**
 
-🔹 Memuat:
+Berisi:
 
-1. Latar belakang pemicu gagasan (berbasis fenomena sosial/budaya/keamanan nasional)
-2. Solusi futuristik dan tawaran teknologi
-3. Pihak-pihak yang akan dilibatkan (misal: TNI AL, BRIN, Kemenhan, dll.)
-4. Langkah strategis dan **linimasa implementasi** menuju dampak sistemik
+1. **Latar fenomena pemicu gagasan**
+   Harus berasal dari **fenomena sosial-budaya nyata** di masyarakat.
+2. **Tawaran solusi**
+   Solusi konkret, visioner, dan bisa direalisasikan.
+3. **Pihak-pihak yang dilibatkan**
+   Dan kontribusi masing-masing pihak (*penta-helix: akademisi, industri, pemerintah, masyarakat, media*).
+4. **Langkah-langkah strategis & linimasa (roadmap)**
+   Penjabaran realisasi, termasuk tahapan per tahun atau fase. Bisa disertai **gambar, tabel, flowchart**, dan lainnya.
 
----
+### **BAB 3. KESIMPULAN**
 
-## **BAB 3. KESIMPULAN**
+Memuat:
 
-🔹 Memuat:
-
-* Inti gagasan
-* Cara implementasi & estimasi waktu
-* Prediksi dampak bagi masyarakat/bangsa
-
----
+* **Inti gagasan yang diajukan**
+* **Cara merealisasikannya** (strategi dan siapa saja yang terlibat)
+* **Perkiraan waktu**
+* **Prediksi dampak gagasan** bagi masyarakat, bangsa, dan dunia
 
 ## **DAFTAR PUSTAKA**
 
 * Format **Harvard Style** (nama belakang, tahun), diurutkan berdasarkan abjad
 * Akan saya bantu formatkan di akhir dokumen secara konsisten
 
----
+### **LAMPIRAN**
 
-## **LAMPIRAN (dimasukkan di akhir)**
+1. Biodata Ketua & Anggota Tim + Dosen Pendamping
+2. Susunan Tim dan Pembagian Tugas
+3. Surat Pernyataan Ketua Tim
+4. Hasil Uji Similaritas Proposal (maks. 25%)
 
-1. Biodata Ketua, Anggota, Dosen Pendamping
-2. Susunan Tim & Pembagian Tugas
-3. Surat Pernyataan Ketua
-4. Hasil Cek Similaritas
+> ⚠️ **Catatan penting**:
 
----
+* Tidak boleh menyisipkan: **cover, abstrak, ringkasan, atau lembar pengesahan**
+* Dokumen utama hanya terdiri dari **Bab 1, 2, 3, Daftar Pustaka, dan Lampiran**
+* Format: Times New Roman, ukuran 12, spasi 1,15, margin normal
 
 > Disusun oleh:  
 > 📍 **Wawan Firgiawan**  
